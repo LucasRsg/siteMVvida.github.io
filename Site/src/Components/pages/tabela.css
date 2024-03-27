@@ -1,0 +1,81 @@
+body
+{
+    background-image: url(/Public/assets/images/fundo3.jpg) ;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1
+{
+    padding: 50px;
+    text-align: center;
+
+}
+table
+{
+    width: 100%;
+    padding: 50px;
+    font-family: "Kanit", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+td,th
+{
+    border: 1px solid #584d4d;
+    text-align: center;
+    padding: 8px;
+}
+
+tr:nth-child(2n) {
+    background-color: rgb(233, 227, 227);
+}
+a:hover
+{
+    color: rgb(0, 207, 145);
+    align-items: end;
+}
+a {
+    text-decoration: none;
+    color: #080808;
+}
+button:hover
+{
+    background-color:rgb(44, 104, 104);
+    align-items: end;
+}
+.voltar
+{
+    margin-top: 700px;
+}
+img
+{
+    display: flex;
+   padding: 50px;
+   margin-left: 300px;
+    align-items: center;
+    justify-content: center;
+  align-items: center;
+  border-radius: 100px;
+}
+
+
+.pai3
+{
+    gap: 50px;
+   text-align:left;
+   margin: 100px;
+   font-family: "Kanit", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+
+  
+
+}
+
+ h1
+{
+    font-size:large;
+    font-family: 'Título1';
+}
